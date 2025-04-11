@@ -1,0 +1,7 @@
+all:
+  hosts:
+    proxmox-node:
+      ansible_host: 192.168.1.156
+      ansible_user: clement
+      ansible_ssh_private_key_file: /home/gclement28/.ssh/id_ed25519_new
+      ansible_python_interpreter: /usr/bin/python3

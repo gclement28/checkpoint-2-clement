@@ -1,3 +1,4 @@
+CHECKPOINT NOT FINISH COMPUTER PROBLEM (TO FINISH)
 # Auto deploy webapp
 
 This Ansible project aims to automate the deployment of a web project developed in PHP using the Wordpress CMS.
